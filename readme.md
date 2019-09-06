@@ -28,3 +28,8 @@
 
 !["result"](result/ae-variational/result-28-784-200-342.75255372869276.jpg)
 
+
+### Cifar10 Demo
+
+!["result"](./result/cifar10.png)
+
