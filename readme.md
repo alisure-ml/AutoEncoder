@@ -31,5 +31,7 @@
 
 ### Cifar10 Demo
 
+> 链接 ： [PyTorch Cifar10](torch_ae_cifar10.py)
+
 !["result"](./result/cifar10.png)
 
